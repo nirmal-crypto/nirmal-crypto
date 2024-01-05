@@ -1,4 +1,4 @@
-![Masterhead](http://pislices.ca/)
+![Masterhead](https://i.gifer.com/7JY7.gif)
 <h1 align="center">Hi 👋, I'm Yasara Nirmal</h1>
 <h3 align="center">A passionate UX/ UI engineer, web developer and an automation engineer from Sri Lanka</h3>
 
